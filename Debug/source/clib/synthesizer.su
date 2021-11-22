@@ -1,0 +1,2 @@
+../source/clib/synthesizer.c:33:7:facc_malloc	32	static
+../source/clib/synthesizer.c:53:6:facc_free	32	static

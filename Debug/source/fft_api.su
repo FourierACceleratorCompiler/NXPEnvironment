@@ -1,0 +1,4 @@
+C:\Users\woodr\mcuexpresso\LPC55S69_Project\drivers/fsl_powerquad.h:1761:20:PQ_WaitDone	16	static
+../source/fft_api.c:23:12:approximate_sqaure_root_po2	24	static
+../source/fft_api.c:34:12:intlog	24	static
+../source/fft_api.c:44:6:fft_api	112	dynamic

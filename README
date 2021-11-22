@@ -1,0 +1,7 @@
+This is a reproduction environment for the NXP PowerQuad accelerator and the LPC55S69 board by NXP semiconductors.
+
+To run this development environment, load it into MCUExpresso IDE, and use the defines in source/LPC55S69_Project.h
+to run each project.
+
+Each item of code is licensed with the project it came from.  Projects are named by the github repository from which
+they were extracted, using the naming scheme <owner>_<repo>

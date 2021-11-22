@@ -1,0 +1,5 @@
+../source/cpuimage_cpuFFT/accelerated_ffta.c:63:6:StartAcceleratorTimer	8	static
+../source/cpuimage_cpuFFT/accelerated_ffta.c:67:6:StopAcceleratorTimer	8	static
+../source/cpuimage_cpuFFT/accelerated_ffta.c:73:6:FFT_accel_internal	208	dynamic
+../source/cpuimage_cpuFFT/accelerated_ffta.c:103:7:FFT_accel	24	static
+../source/cpuimage_cpuFFT/accelerated_ffta.c:107:6:run_accelerator	64	dynamic
